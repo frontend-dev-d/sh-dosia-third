@@ -301,7 +301,6 @@ button:hover {
 .choose-btns {
     display: flex;
     flex-direction: column;
-    margin-top: 15px;
     padding-bottom: 20px;
     align-items: center;
 }
