@@ -386,7 +386,6 @@ button {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    background: #2C303D;
 }
 
 .wheel-card-btn {
@@ -446,6 +445,8 @@ button {
     margin-top: 11px;
     width: 260px;
     padding: 11px;
+    background: #2C303D;
+    width: 282px;
 }
 
 .wheel-card-item {
